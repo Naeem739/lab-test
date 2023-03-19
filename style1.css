@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background: #dffff9;
+    font-family: 'Rubik', sans-serif;
+  }
+.input-field{
+        padding:10px; 
+}
+  
